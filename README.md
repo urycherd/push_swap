@@ -27,5 +27,5 @@ The last element becomes the first one.<br />
 The last element becomes the first one.<br />
 - rrr : rra and rrb at the same time.<br />
 
-The program tries to find the smallest list of instructions possible to sort the stack
-a, the smallest number being at the top
+The program tries to find the smallest set of instructions to sort the stack
+a, the smallest number being at the top.
