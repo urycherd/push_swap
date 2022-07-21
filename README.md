@@ -26,5 +26,6 @@ The last element becomes the first one.<br />
 - rrb (reverse rotate b): Shift down all elements of stack b by 1.<br />
 The last element becomes the first one.<br />
 - rrr : rra and rrb at the same time.<br />
+
 The program tries to find the smallest list of instructions possible to sort the stack
 a, the smallest number being at the top
